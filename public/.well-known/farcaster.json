@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjkxNTIsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMmVmNzkwRGQ3OTkzQTM1ZkQ4NDdDMDUzRURkQUU5NDBEMDU1NTk2In0",
+    "payload": "eyJkb21haW4iOiJkYW8tbGVucy54eXoifQ",
+    "signature": "MHgxMGQwZGU4ZGYwZDUwZTdmMGIxN2YxMTU2NDI1MjRmZTY0MTUyZGU4ZGU1MWU0MThiYjU4ZjVmZmQxYjRjNDBiNGVlZTRhNDcwNmVmNjhlMzQ0ZGQ5MDBkYmQyMmNlMmVlZGY5ZGQ0N2JlNWRmNzMwYzUxNjE4OWVjZDJjY2Y0MDFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "DAO Lens",
+    "homeUrl": "https://dao-lens.xyz",
+    "iconUrl": "https://dao-lens.xyz/icon.png",
+    "splashImageUrl": "https://dao-lens.xyz/splash.png",
+    "splashBackgroundColor": "#0a1929",
+    "webhookUrl": "https://dao-lens.xyz/api/webhook",
+    "subtitle": "Community Governance",
+    "description": "Transparent, efficient, and Farcaster-native platform for managing DAOs, making collective decisions, and allocating funds.",
+    "screenshotUrls": [
+      "https://dao-lens.xyz/screenshot1.png",
+      "https://dao-lens.xyz/screenshot2.png",
+      "https://dao-lens.xyz/screenshot3.png"
+    ],
+    "primaryCategory": "social",
+    "tags": ["dao", "governance", "community", "voting", "base"],
+    "heroImageUrl": "https://dao-lens.xyz/hero.png",
+    "tagline": "Onchain governance for local communities",
+    "ogTitle": "DAO Lens - Community Governance",
+    "ogDescription": "Transparent, efficient, and Farcaster-native platform for managing DAOs",
+    "ogImageUrl": "https://dao-lens.xyz/og-image.png"
+  }
+}
