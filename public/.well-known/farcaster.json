@@ -7,11 +7,11 @@
   "frame": {
     "version": "1",
     "name": "DAO Lens",
-    "homeUrl": "https://dao-lens.xyz",
+    "homeUrl": "https://app-e6bc72b7-6a9n.vercel.app",
     "iconUrl": "https://dao-lens.xyz/icon.png",
     "splashImageUrl": "https://dao-lens.xyz/splash.png",
     "splashBackgroundColor": "#0a1929",
-    "webhookUrl": "https://dao-lens.xyz/api/webhook",
+    "webhookUrl": "https://app-e6bc72b7-6a9n.vercel.app/api/webhook",
     "subtitle": "Community Governance",
     "description": "Transparent, efficient, and Farcaster-native platform for managing DAOs, making collective decisions, and allocating funds.",
     "screenshotUrls": [
@@ -20,7 +20,13 @@
       "https://dao-lens.xyz/screenshot3.png"
     ],
     "primaryCategory": "social",
-    "tags": ["dao", "governance", "community", "voting", "base"],
+    "tags": [
+      "dao",
+      "governance",
+      "community",
+      "voting",
+      "base"
+    ],
     "heroImageUrl": "https://dao-lens.xyz/hero.png",
     "tagline": "Onchain governance for local communities",
     "ogTitle": "DAO Lens - Community Governance",
